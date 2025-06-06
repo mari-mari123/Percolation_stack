@@ -1,4 +1,6 @@
 # Percolation Simulation with Stack-Based DFS
+![pexels-sanlad-11894781](https://github.com/user-attachments/assets/38155db2-067f-48e5-9442-bdf73333648a)
+Photo by Tolga deniz Aran: https://www.pexels.com/photo/barista-preparing-coffee-11894781/
 
 This project simulates **percolation** on a 2D grid — a process where liquid flows through a porous material — using a Python implementation of **stack-based Depth-First Search (DFS)**.
 
